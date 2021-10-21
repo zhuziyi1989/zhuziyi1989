@@ -4,7 +4,7 @@
 - 📨 微信：zhuziyi
 - 🌱 职业：前端开发/技术合伙人
 
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:500px">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:200px">
 
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:100px"><img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:100px"><img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:100px"><img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:100px">
 
