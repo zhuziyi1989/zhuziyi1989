@@ -1,7 +1,7 @@
 ### 嗨，很高兴认识您 👋
 
 - 🔭 坐标：成都
-- 📨 微信：zhuziyi
+- 📨 Wechat/Twitter：zhuziyi
 - 🌱 职业：前端开发/技术合伙人
 
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" style="width:200px">
