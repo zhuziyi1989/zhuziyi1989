@@ -1,6 +1,6 @@
 # 👋 嗨，很高兴认识您 
 
-- 🌱 岗位：前端研发工程师
+- 🌱 岗位：(WEB)端工程师
 - 🔭 坐标：成都 · 高新南
 - 🛠 工具：VScode、SublimeText、iTerm、macOS、Windows
 - ⚡ 技能：JavaScript、React、Vue、CSS、Python、Zsh(Bash)
