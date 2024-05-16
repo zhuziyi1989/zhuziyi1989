@@ -1,7 +1,7 @@
 # 👋 嗨，很高兴认识您 
 
-- 🌱 岗位：前端工程师 / Front-End Engineer
-- 🔭 坐标：成都 · 天府新区
+- 🌱 岗位：高级软件工程师，前端方向 / Senior Software Engineer, Frontend
+- 🔭 坐标： 成都 · 天府之都 / Chengdu
 - 🛠 开发平台：macOS、Windows、Linux
 - 🌩 核心技能：JavaScript、React、Vue、CSS、Node.js、Python
 - 📨 [微信](https://github.com/zhuziyi1989/zhuziyi1989/assets/4889586/3accae5f-d038-4f95-b389-b0b2b4e33bef) ★  [Telegram](http://t.me/zhuziyi)  ★  [Stackoverflow](https://stackoverflow.com/users/5750508/zhuziyi)
