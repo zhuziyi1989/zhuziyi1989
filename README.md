@@ -6,7 +6,7 @@
 - 🌩 核心技能：TypeScript、React、Vue、CSS、Node、Python、Docker...
 - 📨 [微信](https://github.com/zhuziyi1989/zhuziyi1989/assets/4889586/3accae5f-d038-4f95-b389-b0b2b4e33bef) ★  [Telegram](http://t.me/zhuziyi)  ★  [Stackoverflow](https://stackoverflow.com/users/5750508/zhuziyi)
 
-![zhuziyi](https://komarev.com/ghpvc/?username=zhuziyi1989) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhuziyi1989@gmail.com) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fzhuziyi)](https://twitter.com/zhuziyi)
+![zhuziyi](https://komarev.com/ghpvc/?username=zhuziyi1989) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:*****@gmail.com) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fzhuziyi)](https://twitter.com/zhuziyi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuziyi1989&layout=compact&card_width=440&locale=cn&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
