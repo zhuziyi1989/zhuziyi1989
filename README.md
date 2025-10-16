@@ -19,4 +19,4 @@
 3. [Linux命令速查手册](https://zhuziyi1989.github.io/tools/static/linux.html)
 4. [☁ RackNerd 2025 年促销汇总：最具性价比海外 VPS 年付低至 $ 10 美元 #8 科学上网查资料好帮手](https://github.com/zhuziyi1989/tools/issues/8)
 5. [☁ 腾讯云服务器 2核4G 8MB/s带宽 1200GB/月流量 3年198元，折合66/元一年，折合5.5元/月](https://cloud.tencent.com/act/double11?spread_hash_key=e93a2c5ce2b556f687a7ef5fd51d6518&cps_key=917188fc78471c79220100fbcee12c96)
-6. [☁ 大米机场 快速稳定 价格实惠 助力科学研究 实现民族复兴](https://1s.bigmeok.me/user#/register?code=u0zbAkPZ)
+6. [☁ 大米机场 快速稳定 价格实惠 助力科学研究 实现民族复兴](https://1s.bigmeok.me/user#/register?code=u0zbAkPZ)  | 新用户九折优惠码：`happy90%`、国庆七折优惠码:`7zhe`
