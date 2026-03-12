@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuziyi1989&layout=compact&card_width=440&locale=cn&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-![zhuziyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuziyi1989&theme=&show_icons=true&locale=cn) 
-
 ## 常用工具分享
 
 1. [生成二维码的书签](https://zhuziyi1989.github.io/tools/static/qcode-bookmark.html)
